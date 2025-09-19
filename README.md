@@ -12,5 +12,3 @@ Custom CNN ResNet50 (Transfer Learning) EfficientNetB0 (Transfer Learning) Dense
 🔧 Technologies Used
 
 TensorFlow/Keras Python (Pandas, NumPy, Matplotlib) Google Colab Scikit-learn
-
-📁 Files
